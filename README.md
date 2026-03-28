@@ -4,7 +4,7 @@
 
 看李宏毅教授的的影片 -> https://www.youtube.com/watch?v=2rcJdFuNbZQ 
 
-2026/3     0.5 h
+2025      0.5 h
 
 語言模型如何回答問題 -> Atation is all you need 解析 -> https://www.youtube.com/watch?v=_VaEjGnHgOI 
 
